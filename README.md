@@ -14,3 +14,5 @@ Revista que aborda muito do que rolou no evento: https://issuu.com/revistaciab/d
 # Fotos
 
 # Resumo desta experiência e da participação.
+
+# Bora fazer esse relatorio no Vue para consolidar aprendizado.
