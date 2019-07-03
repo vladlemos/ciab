@@ -263,7 +263,7 @@ const data = [
         link: 'detail1.html',
         src: 'pergunta_inova_com_reg.jpg',
         alt: '',
-        titulo: 'Reflexão - Inovar com reguações'
+        titulo: 'Reflexão - Inovar com regulações'
     },
 {
         id:'39',
