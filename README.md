@@ -18,3 +18,7 @@ Revista que aborda muito do que rolou no evento: https://issuu.com/revistaciab/d
 # Resumo desta experiência e da participação.
 
 Relatório feito com HTML, CSS, JS, Modelo Free do Templated ajustado;
+
+Radius by TEMPLATED
+templated.co @templatedco		templated.co @templatedco
+Released for free under the Creative Commons Attribution 3.0 license (templated.co/license)		Released for free under the Creative Commons Attribution 3.0 license (templated.co/license)
