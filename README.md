@@ -10,9 +10,11 @@ Revista que aborda muito do que rolou no evento: https://issuu.com/revistaciab/d
 - Inteligência Artificial
 - Lei Geral de Proteção de Dados (LGPD)
 - RPA Robotic Process Automation
+- Computação Quântica
+
 
 # Fotos
 
 # Resumo desta experiência e da participação.
 
-# Bora fazer esse relatorio no Vue para consolidar aprendizado.
+Relatório feito com HTML, CSS, JS, Modelo Free do Templated ajustado;
