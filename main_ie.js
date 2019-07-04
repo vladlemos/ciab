@@ -65,7 +65,7 @@ var data = [{
   link: 'detail1.html',
   src: 'bradesco_novas_carreiras.jpg',
   alt: '',
-  titulo: 'Bradesco - Novas de Carreiras'
+  titulo: 'Bradesco - Novas Carreiras'
 }, {
   id: '12',
   link: 'detail1.html',
